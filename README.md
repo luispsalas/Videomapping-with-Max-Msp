@@ -6,11 +6,12 @@ as simultaneous playback of many videos will be intensive on processing resource
 
 See https://www.youtube.com/watch?v=DAyjdwEoKm4 for extra information on the jit.gl.meshwarp object.
 
+___
+![Screenshot](screenshot.png)
+___
 
 
-
-
-CONTROLS:
+**CONTROLS:**
 
 'start' = Start playback on layer.
 
@@ -24,7 +25,10 @@ CONTROLS:
 
 'write' = Save mapping on layer (JSON dict. See more on object docs).
 
-Layer Order =  (3 = Uppest layer) / (-2 = Lowest layer)
+'reset' = Reset mapping (use if layer doesn't show up).
 
+___
+**Layer Order** =  (3 = Uppest layer) / (-2 = Lowest layer)
 
-***Double click on jit.gl.meshwarp objects for extra layer attributes***
+**Double click on jit.gl.meshwarp objects for extra layer attributes**
+___
