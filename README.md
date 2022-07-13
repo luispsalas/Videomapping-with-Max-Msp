@@ -1,7 +1,9 @@
 # Videomapping-with-Max-Msp
+#Projection mapping
+
 Max-Msp patcher that makes use of the 'jit.gl.meshwarp' object to map video clips to either one or two outputs (two jit.world instances).
 
-Up to 6 layers per output can be mapped. It’s thought to be used with light looping video sources,
+Up to 6 layers per output can be mapped on each output (alpha compatible). It’s thought to be used with light looping video sources,
 as simultaneous playback of many videos will be intensive on processing resources. 
 
 See https://www.youtube.com/watch?v=DAyjdwEoKm4 for extra information on the jit.gl.meshwarp object.
