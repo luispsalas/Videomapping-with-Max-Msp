@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=2">
-  <img src="assets/banner-light.svg?v=2" alt="Videomapping with Max/MSP: Projection mapping with jit.gl.meshwarp" width="760">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-v2-dark.svg">
+  <img src="assets/banner-v2-light.svg" alt="Videomapping with Max/MSP: Projection mapping with jit.gl.meshwarp" width="760">
 </picture>
 
 A Max/MSP patch that maps video clips onto real surfaces using the `jit.gl.meshwarp` object. It drives **one or two outputs** (two `jit.world` instances), with **up to 6 alpha-compatible layers** on each.
